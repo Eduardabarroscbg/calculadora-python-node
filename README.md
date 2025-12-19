@@ -18,6 +18,7 @@ Como resultado do desafio, o projeto foi reconhecido e recebi uma **licença de 
 
 ## ▶️ Como executar
 
-### Python
 ```bash
 python calculadora.py
+node calculadora.js
+
